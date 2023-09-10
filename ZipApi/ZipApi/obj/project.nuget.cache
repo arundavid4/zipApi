@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNwG0UvF9QGnZdybArkuryseNgfgMw8s87wtJgpF0KNsin935wW0amauiTWpMLdoQpKAQALqyWGvgOCLHn9inA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://testlabapp.adlab.apollonett.no/NugetFeed/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

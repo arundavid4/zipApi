@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipApi", "ZipApi\ZipApi.csproj", "{143656E4-D13E-4DBA-B4E4-C953FF3039BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipApiTest", "ZipApiTest\ZipApiTest.csproj", "{720C1280-457E-44E3-81D3-9F8FA3288B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143656E4-D13E-4DBA-B4E4-C953FF3039BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143656E4-D13E-4DBA-B4E4-C953FF3039BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143656E4-D13E-4DBA-B4E4-C953FF3039BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143656E4-D13E-4DBA-B4E4-C953FF3039BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720C1280-457E-44E3-81D3-9F8FA3288B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720C1280-457E-44E3-81D3-9F8FA3288B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720C1280-457E-44E3-81D3-9F8FA3288B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720C1280-457E-44E3-81D3-9F8FA3288B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A3FD55-A8B0-43E7-B0BE-322706D83E8D}
+	EndGlobalSection
+EndGlobal

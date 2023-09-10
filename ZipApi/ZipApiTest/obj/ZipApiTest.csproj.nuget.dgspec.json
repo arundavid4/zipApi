@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApiTest\\ZipApiTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApiTest\\ZipApiTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApiTest\\ZipApiTest.csproj",
+        "projectName": "ZipApiTest",
+        "projectPath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApiTest\\ZipApiTest.csproj",
+        "packagesPath": "C:\\Users\\AD00574\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApiTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AD00574\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://testlabapp.adlab.apollonett.no/NugetFeed/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://d-115-270-038.adlab.apollonett.no/DnbLifeNuget/Nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj": {
+                "projectPath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj",
+        "projectName": "ZipApi",
+        "projectPath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\ZipApi.csproj",
+        "packagesPath": "C:\\Users\\AD00574\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD00574\\source\\repos\\ZipApi\\ZipApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AD00574\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "http://testlabapp.adlab.apollonett.no/NugetFeed/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://d-115-270-038.adlab.apollonett.no/DnbLifeNuget/Nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
